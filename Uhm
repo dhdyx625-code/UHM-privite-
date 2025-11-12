@@ -55,7 +55,7 @@ local UIPadding_2 = Instance.new("UIPadding")
 
 --Properties:
 
-ChatTroll.Name = "Chattroll Fixed By invisible_1l"
+ChatTroll.Name = "Chattroll"
 ChatTroll.Parent = game:GetService("CoreGui")
 ChatTroll.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ChatTroll.DisplayOrder = 67
