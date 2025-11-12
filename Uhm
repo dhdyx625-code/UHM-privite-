@@ -738,7 +738,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = ";admin all"
+	Real.TextBox.Text = ";admin all                       "
 	Fake.TextBox.Text = "{Team} You are now on the 'Admins' team."
 end)
 
@@ -755,7 +755,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = ";shutdown"
+	Real.TextBox.Text = ";shutdown                            "
 	Fake.TextBox.Text = "[Server]: Shutting down in 60 seconds"
 end)
 
@@ -772,7 +772,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = ""
+	Real.TextBox.Text = "¦put anything here¦                          "
 	Fake.TextBox.Text = "{Team} You are now on the 'put anything here' team."
 end)
 
@@ -789,6 +789,6 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = ""
+	Real.TextBox.Text = "¦put anything here¦                          "
 	Fake.TextBox.Text = "[Server]: "
 end)
