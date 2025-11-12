@@ -62,7 +62,7 @@ ChatTroll.DisplayOrder = 67
 ChatTroll.ResetOnSpawn = false
 
 Main.Name = "Main"
-Main.Parent = Chattroll Fixed By invisible_1l
+Main.Parent = Chattroll
 Main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Main.BorderSizePixel = 0
 Main.ClipsDescendants = true
