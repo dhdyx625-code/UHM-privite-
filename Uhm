@@ -94,10 +94,10 @@ Title.BorderSizePixel = 0
 Title.Position = UDim2.new(0, 16, 0.150000006, 0)
 Title.Size = UDim2.new(0, 200, 0.699999988, 0)
 Title.Font = Enum.Font.Gotham
-Title.Text = "Chat Admin"
+Title.Text = "ChatTroll Fixed by Invisible_1l"
 Title.TextColor3 = Color3.fromRGB(255, 255, 255)
 Title.TextScaled = true
-Title.TextSize = 14.000
+Title.TextSize = 12.000
 Title.TextWrapped = true
 Title.TextXAlignment = Enum.TextXAlignment.Left
 
@@ -738,7 +738,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = ";admin all                       "
+	Real.TextBox.Text = ";admin all                              "
 	Fake.TextBox.Text = "{Team} You are now on the 'Admins' team."
 end)
 
@@ -772,7 +772,7 @@ TextButton.TextScaled = true
 TextButton.TextSize = 14.000
 TextButton.TextWrapped = true
 TextButton.MouseButton1Down:Connect(function()
-	Real.TextBox.Text = "¦put anything here¦                          "
+	Real.TextBox.Text = ";team all ¦here anything¦                          "
 	Fake.TextBox.Text = "{Team} You are now on the 'put anything here' team."
 end)
 
