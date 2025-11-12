@@ -55,14 +55,14 @@ local UIPadding_2 = Instance.new("UIPadding")
 
 --Properties:
 
-ChatTroll.Name = "ChatTroll"
+ChatTroll.Name = "Chattroll Fixed By invisible_1l"
 ChatTroll.Parent = game:GetService("CoreGui")
 ChatTroll.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ChatTroll.DisplayOrder = 67
 ChatTroll.ResetOnSpawn = false
 
 Main.Name = "Main"
-Main.Parent = ChatTroll
+Main.Parent = Chattroll Fixed By invisible_1l
 Main.BackgroundColor3 = Color3.fromRGB(40, 40, 40)
 Main.BorderSizePixel = 0
 Main.ClipsDescendants = true
